@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/wilkerlucio/mongoid_taggable.git
+  remote: https://github.com/wilkerlucio/mongoid_taggable.git
   revision: 1cbdd5cb22ab3e75626677bac64e3b3c7ceca553
   specs:
     mongoid_taggable (0.1.7)
